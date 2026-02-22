@@ -1,0 +1,20 @@
+{
+  "name": "user-signal",
+  "version": "0.1.0",
+  "description": "Bring real user thinking into the build loop. Run lightweight user research, simulate diverse user panels, and validate ideas before writing code — so you build the right thing, not just the fast thing.",
+  "author": {
+    "name": "Kian Wanner",
+    "email": "kian.wanner@gmail.com",
+    "url": "https://github.com/kianwanner"
+  },
+  "repository": "https://github.com/kianwanner/user-signal",
+  "license": "MIT",
+  "keywords": [
+    "user-research",
+    "product",
+    "validation",
+    "personas",
+    "feedback",
+    "build-right"
+  ]
+}
